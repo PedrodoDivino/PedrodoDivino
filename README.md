@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedrodoDivino
-- 👀 I’m interested  aprender programação
+- 👀 I’m interested learn programming  
 - 🌱 I’m currently learning JavaScipt
 - 💞️  I'm looking to job junior dev
 
