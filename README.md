@@ -1,7 +1,7 @@
  ### Olá, eu sou o Pedro Henrique😁👍.
 💻 Estou estudando Front-End
 
-🌱Estou estudnado TypeScript 
+🌱Estou estudando TypeScript 
 
 👀 Estou procurando um trabalho como desenvovedor júnior
 <div align="center">
