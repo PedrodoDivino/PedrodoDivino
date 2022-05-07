@@ -2,8 +2,6 @@
 💻 Estou estudando Front-End
 
 🌱Estou estudando TypeScript 
-
-👀 Estou procurando um trabalho como desenvovedor júnior
 <div align="center">
   <a href="https://github.com/PedrodoDivino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrodoDivino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
