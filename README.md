@@ -1,5 +1,5 @@
  ### Olá, eu sou o Pedro Henrique😁👍.
-💻 Estou estudando Analise e desenvolvimento de Ssitemas
+💻 Estou estudando Analise e desenvolvimento de Ssitemas </br>
 🌱Estou estudando TypeScript  e React JS
 <div align="center">
   <a href="https://github.com/PedrodoDivino">
