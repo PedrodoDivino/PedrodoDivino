@@ -1,9 +1,9 @@
  ### Olá, eu sou o Pedro Henrique😁👍.
 💻 Estou estudando Analise e desenvolvimento de Sitemas </br>
-🌱Estou estudando TypeScript  e React JS
+🌱Estou estudando React JS e Flutter para aplicações mobile
 <div align="center">
   <a href="https://github.com/PedrodoDivino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrodoDivino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrodoDivino&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodoDivino&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
