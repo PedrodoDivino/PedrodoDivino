@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working at Farmbits<br>👯 I like to work on collaborative projects<br>🌱 I’m currently learning Flutter<br>
+🔭I am currently working as a freelancer<br>👯 I like to work on collaborative projects<br>🌱 at the moment I'm learning more about backend to be full-stack developer<br>
 
 
 ## 🌐 Socials:
